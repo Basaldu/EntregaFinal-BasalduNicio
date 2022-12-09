@@ -596,5 +596,16 @@ font-size: 20px;
 .bujias_che {
     flex-wrap: wrap;
     justify-content: flex-start;
+} 
+#nav {
+    display: flex;
+}
+ul li a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 13px;
+    text-decoration: none;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 }
